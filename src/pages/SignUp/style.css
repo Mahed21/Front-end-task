@@ -1,0 +1,41 @@
+.signUp {
+  min-height: 100vh;
+}
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: black;
+  width: 350px;
+}
+input:focus {
+  border-color: green;
+}
+.btn {
+  background-color: #1678cd;
+  color: white;
+  border: none;
+}
+.btn:hover {
+  color: white;
+}
+.alreadyAccount {
+  margin-top: 100px;
+  font-size: smaller;
+}
+.card {
+  min-height: 90vh;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.additinal-input {
+  width: 50px;
+}
+.additinal-input1 {
+  width: 300px;
+}
+.back-btn {
+  background-color: rgb(223, 217, 217);
+  border: none;
+}
+.warning {
+  color: red;
+}
